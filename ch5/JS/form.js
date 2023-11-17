@@ -6,4 +6,4 @@ btn.onclick = () => {
     number = document.querySelector("#prod-num").value;
     document.querySelector("#product").textContent = "";
     document.querySelector("#prod-num").textContent = "";
-}
+}   

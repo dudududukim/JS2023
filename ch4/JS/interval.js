@@ -15,4 +15,4 @@ function greeting2(){
 let timer = setInterval(greeting, 2000);
 //2sec
 
-setTimeout(greeting2, 3000);
+setTimeout(greeting2, 3000);    
