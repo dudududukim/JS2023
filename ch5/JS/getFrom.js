@@ -1,5 +1,6 @@
 const btn = document.querySelector("button");
 let selectedIndex;
+let 
 
 btn.onclick = ()=>{
     selectedIndex = document.querySelector("#major").options.selectedIndex;
